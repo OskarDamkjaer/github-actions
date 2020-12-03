@@ -1,4 +1,4 @@
-name: PR builder
+name: safer
 
 on: pull_request_target
 
